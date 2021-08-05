@@ -1,1 +1,9 @@
-
+In this assignment we would like you to write a script to achieve one small basic task using wav2vec
+2.0
+1. Run an audio of length more than 15 mins using wav2vec framework [GitHub -
+pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.].
+Notes:
+• You can only use pytorch fairseq gitcode at its core and not any of its modification.
+• You are allowed to use any third-party lib to process/transform the audio before it is feed to
+neural network.
+• Run code of pretrained librispeech model available in the same git repo.
